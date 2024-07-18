@@ -1,0 +1,39 @@
+/* Write your code here. */
+.mainGreyContainer {
+  width: 100%;
+  min-height: 100vh;
+  background-color: #f1f5f8;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.mainContainer {
+  margin-top: 2vh;
+  margin-bottom: 2vh;
+  width: 88vw;
+  background-color: #ffffff;
+  border: none;
+  border-radius: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  text-align: center;
+  color: #cb8805;
+  font-weight: 700;
+  margin-top: 1vh;
+  margin-bottom: 1vh;
+}
+ul {
+  width: 80vw;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+}
